@@ -4,7 +4,7 @@ body {
     font-family: Arial, Helvetica, sans-serif;
 }
 
-nav {
+header {
     background-color: rgb(63, 27, 0);
     color: bisque;
     height: 24px;
@@ -15,21 +15,21 @@ nav {
     padding: 12px;
 }
 
-header {
+nav {
     margin-top: 60px;
 }
 
-header h1 {
+header p {
     font-size: 2em;
 
 }
 
-header p {
+header h1 {
     font-size: 1.6em;
 }
 
 .cta-button {
-    background-color: brown;
+    background-color: purple;
     color: white;
     padding: 4px 16px;
     border: none;
@@ -39,6 +39,6 @@ header p {
 
 .highlight {
     background-color:  rgb(63, 27, 0);
-    color: bisque;
+    color: greenyellow;
     padding: 4px 16px;
 }
